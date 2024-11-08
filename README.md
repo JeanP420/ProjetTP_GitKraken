@@ -32,4 +32,8 @@ conflit
 Un conflit survient lorsque deux branches modifient la même partie d'un fichier différemment.
 Git ne peut pas décider quelle version garder et demande une résolution manuelle.
 
+Question 7 : 
 
+1. Ouvrez le fichier avec le conflit dans GitKraken (Diff View).
+2. Choisissez quelles modifications conserver ou fusionnez-les manuellement.
+3. Validez les modifications et faites un commit pour résoudre le conflit.
