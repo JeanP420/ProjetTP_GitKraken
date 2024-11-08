@@ -25,4 +25,11 @@ Question 5 :
 Pousser les branches vers le dépôt distant permet de partager les modifications avec d'autres membres de l'équipe et de sauvegarder les avancées de travail.
 Cela est essentiel en collaboration pour synchroniser les versions.
 
+question 6 : 
+
+conflit
+
+Un conflit survient lorsque deux branches modifient la même partie d'un fichier différemment.
+Git ne peut pas décider quelle version garder et demande une résolution manuelle.
+
 
