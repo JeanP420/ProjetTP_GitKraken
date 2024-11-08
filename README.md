@@ -37,3 +37,7 @@ Question 7 :
 1. Ouvrez le fichier avec le conflit dans GitKraken (Diff View).
 2. Choisissez quelles modifications conserver ou fusionnez-les manuellement.
 3. Validez les modifications et faites un commit pour résoudre le conflit.
+
+Question 8 : 
+
+Un commit de merge est un commit créé lors de la fusion de deux branches. Il enregistre l'unification des changements.
