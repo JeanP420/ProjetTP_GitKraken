@@ -41,3 +41,23 @@ Question 7 :
 Question 8 : 
 
 Un commit de merge est un commit créé lors de la fusion de deux branches. Il enregistre l'unification des changements.
+
+Question 9 :
+
+Une Pull Request permet de proposer des modifications pour révision avant de les fusionner dans la branche principale, facilitant la validation et la discussion des changements en équipe.
+
+Question 10 : 
+
+Un merge direct applique les modifications immédiatement, sans révision, tandis qu'une PR permet une revue et une discussion avant la fusion.
+La PR est préférée pour s'assurer de la qualité et de l'accord de l'équipe avant de modifier la branche principale.
+
+Question 11 : 
+
+L'interface de GitKraken offre une vue graphique en arbre des commits et branches, rendant les relations entre les différentes parties du projet claires et faciles à suivre.
+
+Question 12 : 
+
+Les tags marquent des points spécifiques, comme les versions stables du projet. Dans GitKraken, pour créer un tag :
+1. Sélectionnez un commit.
+2. Cliquez sur l’option pour créer un tag.
+3. Nommez le tag (ex : `v1.0` pour une version stable).
